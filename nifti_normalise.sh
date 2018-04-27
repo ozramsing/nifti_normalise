@@ -138,3 +138,5 @@ if [[ ${CLEANUP} == 1 ]] ; then
     mv ${NII_DIR} ./niiNormalise_${subjName:0: -4} 
 fi
 echo "Done. Normalised file is named $OUTPUT"
+
+echo "cool script"
